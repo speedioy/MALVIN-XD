@@ -107,7 +107,7 @@ src="https://files.catbox.moe/gld2vo.jpg?"/>
 
 **• 1.1 Now deploy.**
     <br>
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fkingmalvn%2FMALVIN-XD) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fkingmalvn%2FMALVIN-XD1) 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
  
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
