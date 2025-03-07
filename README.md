@@ -1,6 +1,6 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
-> **`Updating To` Version 2.0.1...**
+> **`Updated To` Version 2.3.1...**
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
@@ -40,7 +40,8 @@ src="https://files.catbox.moe/gld2vo.jpg?"/>
 
 <p align='center'>
     </p>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="100" width="100%">
+<a><img src='https://i.imgur.com/LyHic3i.gif'/>
+
 </details>
 
 <details>
@@ -59,7 +60,8 @@ src="https://files.catbox.moe/gld2vo.jpg?"/>
 
 ---------
 </details>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="100" width="100%">
+<a><img src='https://i.imgur.com/LyHic3i.gif'/>
+
 
 **How to deploy**
 
@@ -95,7 +97,13 @@ src="https://files.catbox.moe/gld2vo.jpg?"/>
     <br>
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fkingmalvn%2FMALVIN-XD1) 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
- 
+
+**• 2 𝗛𝗢𝗦𝗧 𝗢𝗡 𝗗𝗜𝗦𝗖𝗢𝗥𝗗**
+<a href="https://github.com/kingmalvn/MALVIN-XD1/archive/refs/heads/main.zip"><img src="https://img.shields.io/badge/DOWNLOAD%20FILES-green" alt="Rainhost Files" width="150"></a>
+
+
+<a hrerf= "https://bot-hosting.net/?aff=1231885228566646795"><img src="https://img.shields.io/badge/BOT-HOSTING%20%20DEPLOY-blue" alt="Scalingo Deploy" width="150"></a>
+
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
 
