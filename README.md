@@ -99,18 +99,21 @@ src="https://files.catbox.moe/gld2vo.jpg?"/>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
 **• 2 𝗛𝗢𝗦𝗧 𝗢𝗡 𝗗𝗜𝗦𝗖𝗢𝗥𝗗 /PANEL**
-
-> Click below to download the bot file
+<br>
+> Click below to download the bot file :
+<p align="left">
 <a href="https://github.com/kingmalvn/MALVIN-XD1/archive/refs/heads/main.zip"><img src="https://img.shields.io/badge/DOWNLOAD%20FILES-green" alt="Rainhost Files" width="150"></a>
 <br>
-
+<a><img src='https://i.imgur.com/LyHic3i.gif'/>
+  
 > Click below to deploy on Katabump :
 <p align="left">
   <a href="https://dashboard.katabump.com/auth/login#203630">
     <img src="https://img.shields.io/badge/Deploy%20to%20Katabump-Hosting-6962a6?style=for-the-badge&logo=katabump&logoColor=red"/>
   </a>
 <br>
-
+<a><img src='https://i.imgur.com/LyHic3i.gif'/>
+  
 > Click below to deploy on Bot-Hosting :
 <p align="left">
   <a href="https://bot-hosting.net/?aff=1231885228566646795">
@@ -119,7 +122,6 @@ src="https://files.catbox.moe/gld2vo.jpg?"/>
 </p>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
-
 
  **❖ FOR SUPPORT ❖**
  
@@ -140,7 +142,7 @@ Stay connected with the latest updates and community by joining our official Wha
 
 </details>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="100" width="100%">
+<a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
 <h2 align="left">𝗡𝗢𝗧𝗜𝗖𝗘</h2>
 <p style="text-align: center; font-size: 1.2em;">
@@ -150,12 +152,12 @@ _ᵗʰⁱˢ ⁱˢ ᵗʰᵉ ʳᵉˢᵘˡᵗ ᵒᶠ ᵐʸ  ʰᵃʳᵈ ʷᵒʳᵏ �
 </p>
     
 ***
-
+<a><img src='https://i.imgur.com/LyHic3i.gif'/>
 </div>
 
 </p> <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=F29C75F&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=THANK+YOU;FOR+USING+MALVIN+XD" alt="Typing SVG" /></a>
-
+<a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
 ***`WARNING` : `𝘋𝘖𝘕'𝘛 𝘔𝘖𝘋𝘐𝘍𝘠 𝘛𝘏𝘐𝘚 𝘉𝘖𝘛 𝘍𝘐𝘙𝘚𝘛 𝘐𝘕𝘍𝘖𝘙𝘔 ME`***
 
