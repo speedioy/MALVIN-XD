@@ -72,11 +72,6 @@ src="https://files.catbox.moe/gld2vo.jpg?"/>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
    
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=monospace-ExtraBold&color=blue&lines=🤖+𝗚𝗘𝗧+𝗕𝗢𝗧+𝗦𝗘𝗦𝗦𝗜𝗢𝗡+𝗜𝗗+𝗟𝗜𝗡𝗞𝗦+⤵️)](https://git.io/typing-svg) 
-
-*_You will need a session ID to run the MALVIN-XD. Click the button below to obtain your session ID.if any error in loading site try vpn:_*
-
----
 🔑 Get Session ID (WhatsApp Pair Code Login)
 
 > To deploy, generate your session ID from the link below:
@@ -85,15 +80,6 @@ src="https://files.catbox.moe/gld2vo.jpg?"/>
     <img src="https://img.shields.io/badge/%F0%9F%9A%80%20GET%20PAIR%20CODE%20WEB-ffcc00?style=for-the-badge"/>
   </a>
 </p>
-
-
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/>
-
- ***Put your session id and edit your bot confings in the settings.js***
-<a><img src='https://i.imgur.com/LyHic3i.gif'/>
-
-
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
@@ -110,105 +96,6 @@ src="https://files.catbox.moe/gld2vo.jpg?"/>
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fkingmalvn%2FMALVIN-XD1) 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
  
-<a><img src='https://i.imgur.com/LyHic3i.gif'/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗗𝗘𝗣𝗟𝗢𝗬+⤵️+𝗢𝗡+𝗥𝗔𝗜𝗟𝗪𝗔𝗬+🛰️)](https://git.io/typing-svg)
-
-[![Deploy to Railway](https://img.shields.io/badge/RAILWAY-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black)](https://railway.com)
-<a><img src='https://i.imgur.com/LyHic3i.gif'/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗗𝗘𝗣𝗟𝗢𝗬+⤵️+𝗢𝗡+𝗞𝗢𝗬𝗘𝗕+🛰️)](https://git.io/typing-svg)
-
-<p align="left">
-<a href='https://app.koyeb.com/services/deploy?type=git&repository=kingmalvn/MALVIN-XD&ports=3000&env[PREFIX]=.&env[SESSION_ID]=&env[ALWAYS_ONLINE]=false&env[MODE]=public&env[AUTO_STATUS_MSG]=Seen%20status%20by%20MALVIN-XD&env[AUTO_STATUS_REPLY]=false&env[AUTO_STATUS_SEEN]=true&env[AUTO_TYPING]=false&env[ANTI_LINK]=true&env[AUTO_REACT]=false&env[READ_MESSAGE]=false' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-koyeb ‎ deploy-FF009D?style=for-the-badge&logo=koyeb&logoColor=white'/< width=150 height=28/p></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/>
-   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗗𝗘𝗣𝗟𝗢𝗬+⤵️+𝗢𝗡+𝗥𝗘𝗡𝗗𝗘𝗥+🛰️)](https://git.io/typing-svg)
-
-
-[![Deploy to Render](https://binbashbanana.github.io/deploy-buttons/buttons/remade/render.svg)](https://dashboard.render.com/blueprint/new?repo=https%3A%2F%2Fgithub.com%2Fkingmalvn%2FMALVIN-XD)
-<a><img src='https://i.imgur.com/LyHic3i.gif'/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗗𝗘𝗣𝗟𝗢𝗬+⤵️+𝗢𝗡+𝗥𝗘𝗣𝗟𝗜𝗧+🛰️)](https://git.io/typing-svg)
-
-<p align="left">
-<a href='https://replit.com/~' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Replit Deploy-red?style=for-the-badge&logo=replit&logoColor=white'/< width=150 height=28/p></a> 
-
- <a><img src='https://i.imgur.com/LyHic3i.gif'/>
- 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗗𝗘𝗣𝗟𝗢𝗬+⤵️+𝗢𝗡+𝗚𝗟𝗜𝗧𝗖𝗛+🛰️)](https://git.io/typing-svg)
-
-<a href='https://glitch.com/signup' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/GLITCH-h?color=pink&style=for-the-badge&logo=glitch'/></a></p>
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗗𝗘𝗣𝗟𝗢𝗬+⤵️+𝗢𝗡+𝗖𝗢𝗗𝗘𝗦𝗣𝗔𝗖𝗘+🛰️)](https://git.io/typing-svg)
-
-<a href='https://github.com/codespaces/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/CODESPACE-h?color=navy&style=for-the-badge&logo=visualstudiocode'/></a></p>
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗗𝗘𝗣𝗟𝗢𝗬+⤵️+𝗢𝗡+𝗪𝗢𝗥𝗞𝗙𝗟𝗢𝗪𝗦+🛰️)](https://git.io/typing-svg)
-
- <h4 align="center">9. Workflow</h4>
-<p style="text-align: center; font-size: 1.2em;">
-
-
-<details>
-
-<b><strong><summary align="center" style="color: Yello;">Deploy Malvin On Workflow</summary></strong></b>
-<p style="text-align: center; font-size: 1.2em;">
- 
-<h8>Copy the workflow codes and then frok the repo edit config add session id then save and now click on repo action tag then click on start new workflow then paste workflow codes rename main.yml to deploy.yml and save the file</h8>
-<h3 align-"center"> Important</h3>
-<h6 align-"center">Attention! We do not take responsibility if your github account is suspended through this Deploy method, I advise you not to use this workflow deploy method in the latest github accounts, github accounts created a year or more ago have not received the risk of suspension so far, this works It will only be done for 6 hours, you need to update the code to reactivate it.</h6>
-
-```
-name: Node.js CI
-
-on:
-  push:
-    branches:
-      - main
-  pull_request:
-    branches:
-      - main
-
-jobs:
-  build:
-
-    runs-on: ubuntu-latest
-
-    strategy:
-      matrix:
-        node-version: [20.x]
-
-    steps:
-    - name: Checkout repository
-      uses: actions/checkout@v3
-
-    - name: Set up Node.js
-      uses: actions/setup-node@v3
-      with:
-        node-version: ${{ matrix.node-version }}
-
-    - name: Install dependencies
-      run: npm install
-
-    - name: Start application
-      run: npm start
-```
-</details> 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="100" width="100%">
-
-`✠ 𝘏𝘖𝘞 𝘛𝘖 𝘋𝘌𝘗𝘓𝘖𝘠 𝘔𝘈𝘓𝘝𝘐𝘕 X𝘋 𝘖𝘕 𝘞𝘖𝘙𝘒𝘍𝘓𝘖𝘞𝘚 𝘍𝘙𝘌𝘌 𝘎𝘐𝘛𝘏𝘜𝘉 𝘞𝘈𝘛𝘊𝘏 𝘝𝘐𝘋𝘌𝘖 ✠`
-
-
-<p align="center">
-   <a href="https://youtu.be/B5Ab_X9Lht0?si=RwYO2cK_P42Hkwrc"><img src="https://i.ibb.co/71mYRh4/116-1161192-podcast-subscribe-listen-button-youtube-sign-hd-png.png" alt="Watch tutorial on YouTube" border="0"  width="105">
-    </a>
-</p>
-
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
 
