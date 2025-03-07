@@ -45,18 +45,18 @@ src="https://files.catbox.moe/gld2vo.jpg?"/>
 </details>
 
 <details>
-<summary>VIEW BOT UPDARTED AND NEW FUTURES🍂</summary>
+<summary>ᴠɪᴇᴡ ʙᴏᴛ ᴜᴘᴅᴀᴛᴇᴅ ᴀɴᴅ ɴᴇᴡ ғᴇᴛᴜʀᴇs🍂</summary>
   
 --------------------------
-- **ANTI-DELETED 🚀**
-- **ANTI-VIEWONCE 🚀**
-- **AUTO-UPDATE 🚀**
-- **AUTO_VOICE 🚀**
-- **AUTO_STICKER 🚀**
-- **AUTO_REPLY 🚀**
-- **ALWAYS_ONLINE_OFFLINE 🚀**
-- **STATUS_REPLY_REACT 🚀**
-- © **POWERD BY MALVIN KING**
+- **ᴀɴᴛɪ-ᴅᴇʟᴇᴛᴇ🚀**
+- **ᴀɴᴛɪ-ᴠɪᴇᴡᴏɴᴄᴇ 🚀**
+- **ᴀᴜᴛᴏ-ᴠᴏɪᴄᴇ 🚀**
+- **ᴀᴜᴛᴏ-sᴛɪᴄᴋᴇʀ 🚀**
+- **ᴀʟᴡᴀʏs ᴏɴʟɪɴ /ᴏғғʟɪɴᴇ 🚀**
+- **sᴛᴀᴛᴜs ʀᴇᴘʟʏ 🚀**
+- **ᴀɴᴅ ᴍᴀɴʏ ᴍᴏʀᴇ ᴇɴᴊᴏʏ**
+- © **ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍᴀʟᴠɪɴ ᴋɪɴɢ**
+  
 
 ---------
 </details>
@@ -87,7 +87,7 @@ src="https://files.catbox.moe/gld2vo.jpg?"/>
 
 **Now Deploy to any hosting of ur choice**
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗗𝗘𝗣𝗟𝗢𝗬+⤵️+𝗢𝗡+𝗛𝗘𝗥𝗢𝗞𝗨+🛰️)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗗𝗘𝗣𝗟𝗢𝗬+⤵️+𝗢𝗡+🛰️)](https://git.io/typing-svg)
 
 •If you don't have an account in Heroku, create one.
    <br>
