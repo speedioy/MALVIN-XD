@@ -126,11 +126,6 @@ src="https://files.catbox.moe/gld2vo.jpg?"/>
  **❖ FOR SUPPORT ❖**
  
 <details>
-
-
-Stay connected with the latest updates and community by joining our official WhatsApp group and channel. You can also contact the owner directly.
-   <br>
-
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
 <a href="https://whatsapp.com/channel/0029Vac8SosLY6d7CAFndv3Z"><img src="https://img.shields.io/badge/%F0%9F%8E%89%20ᴊᴏɪɴ%20ᴏᴜʀ%20ᴡʜᴀᴛsᴀᴘᴘ%20ᴄʜᴀɴɴᴇʟ-red" alt="🔰 ᴊᴏɪɴ ᴍʏ ᴡʜᴀᴛsᴀᴘᴘ ɢʀᴏᴜᴘ ғᴏʀ ᴜᴘᴅᴀᴛᴇ 🔰" width="300"></a>
@@ -151,7 +146,6 @@ Stay connected with the latest updates and community by joining our official Wha
 _ᵗʰⁱˢ ⁱˢ ᵗʰᵉ ʳᵉˢᵘˡᵗ ᵒᶠ ᵐʸ  ʰᵃʳᵈ ʷᵒʳᵏ ᵃⁿᵈ ⁱ ᵐᵃˡᵛⁱⁿ ᵏⁱⁿᵍ  ᵒʷⁿˢ ᵗʰᵉ ᵇᵒᵗˢ ʳⁱᵍʰᵗˢ ᵃⁿᵈ ᶜᵒᵈᵉ ʳⁱᵍʰᵗˢ. ᵗʰᵉʳᵉᶠᵒʳᵉ, ʸᵒᵘ ʰᵃᵛᵉ ⁿᵒ ᶜʰᵃⁿᶜᵉ ᵗᵒ ᶜʰᵃⁿᵍᵉ ᵃⁿᵈ ˢᵘᵇᵐⁱᵗ ᵐʸ ᵇᵒᵗ ᵘⁿᵈᵉʳ ᵃⁿʸ ᶜⁱʳᶜᵘᵐˢᵗᵃⁿᶜᵉˢ._
 </p>
     
-***
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 </div>
 
