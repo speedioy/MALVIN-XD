@@ -36,7 +36,7 @@ src="https://files.catbox.moe/gld2vo.jpg?"/>
   <img src="https://komarev.com/ghpvc/?username=MALVIN-XD&label=VIEWS&style=flat-square&color=blue" />
 </a>
 <p align="center">
-  <a href="https://github.com/kingmalvn/MALVIN-XD"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v2.0-darkcyan.svg?style=for-the-badge&logo=appveyor" /></a>
+  <a href="https://github.com/kingmalvn/MALVIN-XD"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v2.3.1-darkcyan.svg?style=for-the-badge&logo=appveyor" /></a>
 
 <p align='center'>
     </p>
