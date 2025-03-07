@@ -100,9 +100,21 @@ src="https://files.catbox.moe/gld2vo.jpg?"/>
 
 **• 2 𝗛𝗢𝗦𝗧 𝗢𝗡 𝗗𝗜𝗦𝗖𝗢𝗥𝗗**
 <a href="https://github.com/kingmalvn/MALVIN-XD1/archive/refs/heads/main.zip"><img src="https://img.shields.io/badge/DOWNLOAD%20FILES-green" alt="Rainhost Files" width="150"></a>
+<br>
 
+> Click below to deploy on Katabump :
+<p align="left">
+  <a href="https://dashboard.katabump.com/auth/login#203630">
+    <img src="https://img.shields.io/badge/Deploy%20to%20Katabump-Hosting-6962a6?style=for-the-badge&logo=katabump&logoColor=red"/>
+  </a>
+<br>
 
-<a hrerf= "https://bot-hosting.net/?aff=1231885228566646795"><img src="https://img.shields.io/badge/BOT-HOSTING%20%20DEPLOY-blue" alt="Scalingo Deploy" width="150"></a>
+> Click below to deploy on Bot-Hosting :
+<p align="left">
+  <a href="https://bot-hosting.net/?aff=1231885228566646795">
+    <img src="https://img.shields.io/badge/Deploy%20to%20Bot-hosting-9772a6?style=for-the-badge&logo=bothosting&logoColor=white"/>
+  </a>
+</p>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
