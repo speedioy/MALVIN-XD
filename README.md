@@ -99,6 +99,31 @@ src="https://files.catbox.moe/gld2vo.jpg?"/>
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fkingmalvn%2FMALVIN-XD1) 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
+
+## <br> ❖ DEPLOY_TALKDROVE ❖
+   
+🔑 Create an account (Talkdrove account n Login)
+
+> > To create, Click from the link below:
+<p align="left">
+  <a href="https://host.talkdrove.com/auth/signup?ref=E90E13BC?">
+    <img src="https://img.shields.io/badge/%F0%9F%9A%80%20CREATE%20TALKDROVE%20ACCOUNT-eecc12?style=for-the-badge"/>
+  </a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/>
+  
+
+ 2. Deploy Now.
+  
+> Click below to deploy on Talkdrove:
+<a href='https://host.talkdrove.com/dashboard/select-bot/prepare-deployment?botId=51' target="_blank"><img alt='DEPLOY' src="https://img.shields.io/badge/%F0%9F%9A%80%20DEPLOY%20TO%20TALKDROVE-aadd90?style=for-the-badge"/>
+  </a>
+
+
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/>
+  
+
+
 **• 2 𝗛𝗢𝗦𝗧 𝗢𝗡 𝗗𝗜𝗦𝗖𝗢𝗥𝗗 /PANEL**
 <br>
 > Click below to download the bot file :
