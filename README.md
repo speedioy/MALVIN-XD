@@ -1,6 +1,6 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
-> **`Updated To` Version 2.3.1...**
+> **`Updated To` Version 2.5.1...**
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
@@ -140,14 +140,7 @@ src="https://files.catbox.moe/gld2vo.jpg?"/>
 <br>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
   
-> Click below to deploy on Bot-Hosting :
-<p align="left">
-  <a href="https://bot-hosting.net/?aff=1231885228566646795">
-    <img src="https://img.shields.io/badge/Deploy%20to%20Bot-hosting-9772a6?style=for-the-badge&logo=bothosting&logoColor=white"/>
-  </a>
-</p>
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
  **❖ FOR SUPPORT ❖**
  
