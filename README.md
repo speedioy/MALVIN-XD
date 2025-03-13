@@ -115,7 +115,7 @@ src="https://files.catbox.moe/gld2vo.jpg?"/>
  2. Deploy Now.
   
 > Click below to deploy on Talkdrove:
-<a href='https://host.talkdrove.com/dashboard/select-bot/prepare-deployment?botId=51' target="_blank"><img alt='DEPLOY' src="https://img.shields.io/badge/%F0%9F%9A%80%20DEPLOY%20TO%20TALKDROVE-aadd90?style=for-the-badge"/>
+<a href='https://host.talkdrove.com/dashboard/select-bot/prepare-deployment?botId=17' target="_blank"><img alt='DEPLOY' src="https://img.shields.io/badge/%F0%9F%9A%80%20DEPLOY%20TO%20TALKDROVE-aadd90?style=for-the-badge"/>
   </a>
 
 
