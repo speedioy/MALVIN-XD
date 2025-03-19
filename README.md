@@ -24,6 +24,9 @@ MALVIN-XD BY Malvin King 🩵
   <a href="https://github.com/kingmalvn"><img title="Developer" src="https://img.shields.io/badge/Author-Malvin%20King-FF7604.svg?style=big-square&logo=github" /></a>
 </p>
 
+<p align="center">
+<a href="https://github.com/kingmalvn/MALVIN-XD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/kingmalvn/MALVIN-XD?color=blue&style=flat-square"></a>
+<a href="https://github.com/kingmalvn/MALVIN-XD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/kingmalvn/MALVIN-XD?color=blue&style=flat-square"></a>
 <div align="center">
   
 [![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-FF00F8?style=big-square&logo=whatsapp)](https://whatsapp.com/channel/0029Vac8SosLY6d7CAFndv3Z)
